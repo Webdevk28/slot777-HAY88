@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500&family=Gabarito&family=Geologica&family=Kumbh+Sans:wght@500&family=Lexend:wght@500&family=Outfit:wght@500&family=Poppins:wght@500&family=Roboto:wght@500&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: rgba(0, 0, 0, .87) !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif !important;
+    text-size-adjust: 100%;
+}
+::-webkit-scrollbar {max-height: 50%; height: 50%;}
+.material-symbols-outlined{
+    font-size: 21px !important;
+}
+h2{
+    color: rgba(0, 0, 0, .87) !important;
+    font-weight: 500 !important;
+    font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif !important;
+}
+section {
+    font-family: 'Gabarito', sans-serif;
+}
+
+section .fontroboto {
+    font-family: 'Roboto', sans-serif;
+}
+.text{
+    font-size: 35px !important;
+}
+section .fontt {
+    font-family: 'Lexend', sans-serif;
+    letter-spacing: -0.5px;
+}
+
+section .fontt .fontf {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300 !important;
+    border: 0;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    src: url(//fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2)format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+
+
